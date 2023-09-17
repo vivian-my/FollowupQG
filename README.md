@@ -35,12 +35,13 @@ FollowupQG is a dataset of over 3K real-world ***(initial question, answer, foll
 * Test Size: 500
 
 ### Cite
-'''
+```
 @inproceedings{Meng2023FOLLOWUPQGTI,
   title={FOLLOWUPQG: Towards Information-Seeking Follow-up Question Generation},
   author={Yan Meng and Liangming Pan and Yixin Cao and Min-Yen Kan},
   year={2023},
   url={https://api.semanticscholar.org/CorpusID:261681892}
 }
-'''
+```
+
 
