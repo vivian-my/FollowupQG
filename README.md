@@ -36,12 +36,29 @@ FollowupQG is a dataset of over 3K real-world ***(initial question, answer, foll
 
 ### Cite
 ```
-@inproceedings{Meng2023FOLLOWUPQGTI,
-  title={FOLLOWUPQG: Towards Information-Seeking Follow-up Question Generation},
-  author={Yan Meng and Liangming Pan and Yixin Cao and Min-Yen Kan},
-  year={2023},
-  url={https://api.semanticscholar.org/CorpusID:261681892}
+@inproceedings{meng-etal-2023-followupqg,
+    title = "{F}ollowup{QG}: Towards information-seeking follow-up question generation",
+    author = "Meng, Yan  and
+      Pan, Liangming  and
+      Cao, Yixin  and
+      Kan, Min-Yen",
+    editor = "Park, Jong C.  and
+      Arase, Yuki  and
+      Hu, Baotian  and
+      Lu, Wei  and
+      Wijaya, Derry  and
+      Purwarianti, Ayu  and
+      Krisnadhi, Adila Alfa",
+    booktitle = "Proceedings of the 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = nov,
+    year = "2023",
+    address = "Nusa Dua, Bali",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.ijcnlp-main.17",
+    doi = "10.18653/v1/2023.ijcnlp-main.17",
+    pages = "252--271",
 }
+
 ```
 
 
